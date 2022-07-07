@@ -1,0 +1,65 @@
+[
+  {
+    "name": {
+      "en": "First",
+      "it": "Primi",
+      "de": "Zuerst"
+    },
+    "items": [
+      {
+        "name": {
+          "en": "Pasta with pesto",
+          "it": "Pasta al pesto",
+          "de": "Nudeln mit pesto"
+        },
+        "price": 9.5,
+        "serveBefore": true
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "Second",
+      "it": "Secondi",
+      "de": "Sekunden"
+    },
+    "items": [
+      {
+        "name": {
+          "en": "Sliced beef",
+          "it": "Tagliata di manzo",
+          "de": "Geschnittenes rindfleisch"
+        },
+        "price": 15,
+        "serveBefore": false
+      },
+      {
+        "name": {
+          "en": "Roasted chicken",
+          "it": "Pollo arrosto",
+          "de": "Gebratenes Hühnchen"
+        },
+        "price": 9,
+        "serveBefore": false
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "Dessert",
+      "it": "Dolci",
+      "de": "Süßigkeiten"
+    },
+    "items": [
+      {
+        "name": {
+          "en": "Sacher",
+          "it": "Sacher",
+          "de": "Sacher"
+        },
+        "price": 3.5,
+        "serveBefore": false
+      }
+    ]
+  }
+]
