@@ -14,6 +14,33 @@
         },
         "price": 9.5,
         "serveBefore": true
+      },
+      {
+        "name": {
+          "en": "Pasta with sugo",
+          "it": "Pasta al sugo",
+          "de": "Nudeln mit sugo"
+        },
+        "price": 9.5,
+        "serveBefore": true
+      },
+      {
+        "name": {
+          "en": "Fettuccine",
+          "it": "Fettuccine",
+          "de": "Fettuccine"
+        },
+        "price": 10,
+        "serveBefore": true
+      },
+      {
+        "name": {
+          "en": "Gnocchi burro e salvia",
+          "it": "Fettuccine",
+          "de": "Gnocchi mit butter und salbei"
+        },
+        "price": 10,
+        "serveBefore": true
       }
     ]
   },
@@ -40,6 +67,15 @@
           "de": "Gebratenes Hühnchen"
         },
         "price": 9,
+        "serveBefore": false
+      },
+      {
+        "name": {
+          "en": "Cotoletta",
+          "it": "Cutlet",
+          "de": "Schnitzel"
+        },
+        "price": 12,
         "serveBefore": false
       }
     ]
